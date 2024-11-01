@@ -16,8 +16,8 @@ To set up this project locally, clone the repository and install the necessary d
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/heart-rate-prediction.git
-    cd heart-rate-prediction
+    git clone https://github.com/abilbiju/Heart-Rate-Prediction.git
+    cd Heart-Rate-Prediction
     ```
 
 2. Install the dependencies:
